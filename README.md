@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# mi nombre es helios cain escobar ayala, tengo 17 años y ando viendo cursos de github, amo a io
+# mi nombre es helios cain escobar ayala, tengo 17 años y ando viendo cursos de github
 
 <!--
 **Haldier-Erenhal/Haldier-Erenhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
