@@ -1,18 +1,12 @@
-## Hi there 👋
+# About me
 
-# mi nombre es helios cain escobar ayala, tengo 17 años y ando viendo cursos de github
+### mi nombre es helios cain escobar ayala, tengo 17 años y ando viendo cursos de githu
 
-<!--
-**Haldier-Erenhal/Haldier-Erenhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on studying Github
+- 🌱 I’m currently learning GitHub and docker desktop
+- 👯 I’m looking to collaborate with my dad and help him
+- 💬 Ask me about idk
+- 📫 How to reach me: instagram
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ive played guitar for 11 years
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
